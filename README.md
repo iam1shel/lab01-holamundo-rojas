@@ -7,6 +7,6 @@ El proyecto muestra un saludo personalizado en pantalla de mi parte (alumna Mish
 también el nombre del curso y el docente del curso mediante un componente Text
 
 ### Captura de pantalla
-<img width="1406" height="1005" alt="image" src="https://github.com/user-attachments/assets/e934ae28-f6c2-4083-9eee-237700b52cb0" />
+<img width="1406" height="1005" alt="image" src="https://github.com/user-attachments/assets/efc4fe7e-414f-49e9-be93-0fc2d2fa1b5a" />
 
 
